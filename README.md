@@ -14,7 +14,7 @@ A modern, scalable asset management UI built with React and TypeScript. Supports
 
 ## Technical
 - **Framework:** React 19 + TypeScript
-- **Persistence:** Async localStorage (see `useAssetTree` hook)
+- **Persistence:** Async localStorage (see `useAsyncLocalStorage` hook)
 - **UI:** Tailwind CSS utility classes only (no UI framework)
 - **State Management:** Custom React hook (`useAssetTree`)
 - **Scalability:** Components and logic are modular and easily testable
