@@ -11,7 +11,7 @@ A modern, scalable asset management UI built with React and TypeScript. Supports
 - Modular, testable code structure
 
 ## Technical
-- **Framework:** React 18 + TypeScript
+- **Framework:** React 19 + TypeScript
 - **Persistence:** Async localStorage (see `useAssetTree` hook)
 - **UI:** Tailwind CSS utility classes only (no UI framework)
 - **State Management:** Custom React hook (`useAssetTree`)
@@ -55,7 +55,3 @@ npm run build
 
 ## License
 MIT (or as specified by your organization)
-
----
-
-**Challenge:** Senior Frontend Developer Coding Challenge 1 – Hierarchical Asset Management in a Unified Namespace
