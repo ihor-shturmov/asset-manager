@@ -1,5 +1,7 @@
 # Asset Manager – Hierarchical Namespace (React + TypeScript)
 
+[Live Demo](https://asset-manager-nine.vercel.app/)
+
 A modern, scalable asset management UI built with React and TypeScript. Supports hierarchical folders/files, CRUD, move, unique naming, and persists data asynchronously to local storage. UI is built with Tailwind CSS utility classes (no UI framework).
 
 ## Features
